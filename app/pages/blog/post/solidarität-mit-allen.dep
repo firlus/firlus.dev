@@ -1,0 +1,71 @@
+import HeaderImage from "../../../public/corona-speech.png";
+
+export const SolidaritätMitAllen = {
+  title:
+    'Meine Rede auf der Kundgebung "Solidarität mit allen - Wir lassen uns impfen"',
+  tags: ["politics", "freising"],
+  image: HeaderImage,
+  date: "17.01.2022",
+  teaser:
+    'In einem breiten Bündnis gab es in Freising Mitte Januar eine Demonstration mit dem Ziel, auf eine vernunfts- und wissenschaftsbasierte Coronapolitik zu setzen und auf die Verstrickungen zwischen der sogenannten "Querdenker*innenbewegung" und dem Rechtsradikalismus aufmerksam zu machen.',
+  content: (
+    <p>
+      Liebe Freundinnen und Freunde, es freut mich total zu sehen, wie viele
+      Leute sich heut Abend auf dem Marienplatz getroffen haben, um ein Zeichen
+      zu setzen für Solidarität und Vernunft in Bezug auf Corona. Gleichzeitig
+      ist der Grund, warum wir Kundgebungen wie die unsere brauchen, eher
+      weniger erfreulich. Seit mehr als zwei Jahren schon beschäftigt uns alle
+      die Pandemie und prägt in vielen Bereichen unser Leben. Ich glaube, ich
+      spreche im Namen von allen, wenn ich sage, dass wir uns wünschen, das
+      Ganze sobald wie möglich hinter uns zu lassen. Abgesehen vom Virus gibt es
+      noch einen anderen Aspekt der Pandemie, von dem ich mir wünsche, dass er
+      so schnell wieder verschwindet, wie er gekommen ist, und zwar sind das die
+      sogenannten Querdenker*innen. Eine Bewegung, die sich selbst Werten
+      verschreibt, wie Eigenverantwortung, Freiheit und konstruktiver Kritik an
+      der Corona-Politik, die bei näherer Betrachtung allerdings eine Szene
+      offenbart, die durch und durch verwoben ist mit Rechtsradikalen und
+      Verschwörungstheoretikern. Klar, es gibt genügend Themen, die es
+      anzusprechen und zu kritisieren gilt im Bezug auf den Umgang mit der
+      Pandemie: Die mangelnde Unterstützung für Branchen, die von der Pandemie
+      stark betroffen sind, Künstler*innen, Gastronomen, Ladenbesitzer*innen um
+      nur einige zu nennen. Die Situation an Schulen, die Mängel in unserem
+      Gesundheitssystem, der Umgang mit unserem Kranken- und Pflegepersonal –
+      für all das gibt es mehr als genug Diskussionsbedarf. Wer sich allerdings
+      in dieser Lage, in der wir uns aktuell befinden, hinstellt und fabuliert,
+      es gäbe gar keine Pandemie, das Virus wäre keine Gefahr, Masken würden
+      nichts bringen, die Impfung wäre gefährlich oder wer noch viel absurdere
+      Thesen in die Welt setzt, der löst keine Probleme, der schafft nur neue.
+      Ganz abgesehen von der Desinformation, die aus diesen Kreisen kommen und
+      so unsere Gesellschaft spaltet, muss auch jeder und jedem, der bei den als
+      Spaziergängen getarnten Corona-Demos mitläuft, bewusst sein, auf wen er
+      sich hier einlässt. Diese Bewegung wird maßgeblich organisiert,
+      beeinflusst und unterstützt von rechten und rechtsradikalen
+      Organisationen, allen voran die AfD, was auch hier in Freising zutrifft.
+      Bei friedlichen „Spaziergängen“ bleibt es aber schon lange nicht mehr. Da
+      gibt es beispielsweise die Ausschreitungen bei Corona-Protesten in
+      Schweinfurt und anderen Städten. Letztes Jahr gab es auf derartigen Demos
+      Redebeiträge, wo sich die Redner*innen mit Personen wie Sophie Scholl oder
+      Anne Frank verglichen haben und damit die Schrecklichkeit des
+      Nationalsozialismus relativieren. Es gibt Drohungen gegenüber Personen des
+      öffentlichen Lebens, die offen für eine solidarische und
+      wissenschaftsbasierte Coronapolitik einstehen. Und letztendlich gab es
+      bereits auch schon Gewaltverbrechen, wie der Mord in Idar-Oberstein an
+      einem Tankstellenverkäufer, der von einer von Desinformation und Fake-News
+      getriebenen Person erschossen wurde. Diese traurige Entwicklung schadet
+      uns allen, sowohl gesellschaftlich als auch gesundheitlich. Die Inzidenzen
+      steigen überall in Deutschland rasant an, auch die Hospitalisierungsrate
+      in einigen Bundesländern erreicht wieder gefährliche Bereiche. Das letzte
+      was wir brauchen können, ist mehr Unsicherheit und Desinformationen, wir
+      brauchen einen rationalen, wissenschafts- und faktenbasierten Umgang mit
+      der Pandemie und vor allem Zusammenhalt und Solidarität. Ich möchte meinen
+      Redebeitrag abschließen mit einer kleinen Anekdote: Auf der
+      Facebook-Veranstaltung zu unserer Kundgebung habe ich einen Kommentar
+      gelesen, den interessiert hat, wie viele von den Demonstranten auf unserer
+      Seite denn vom Staat bezahlt werden. Ich bin ehrlich, ich hätte nichts
+      dagegen, für das, was wir machen, auch noch etwas Geld zu bekommen. aber
+      eigentlich ist doch viel schöner, dass es so viele Leute gibt, die für
+      Solidarität auf die Straße gehen nicht aus einem finanziellen Antrieb,
+      sondern aus persönlicher Überzeugung. Vielen Dank.
+    </p>
+  ),
+};

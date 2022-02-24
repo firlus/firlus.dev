@@ -1,0 +1,290 @@
+import HeaderImage from "../../../public/corona.webp";
+
+export const CoronaRebellenFreising = {
+  title: "Die Corona-Rebellen Freising und die AfD",
+  tags: ["politics", "freising"],
+  image: HeaderImage,
+  date: "27.11.2020",
+  teaser:
+    "Die sogenannte Querdenker*innen-Bewegung dürfte den meisten inzwischen ein Begriff sein. Hauptsächlich wahrscheinlich durch Demonstrationen, um augenscheinlich Kritik an den Corona-Maßnahmen zu üben, was sich aber in der Praxis oft als ein wirrer Mix aus absurden Verschwörungstheorien und rechten Parolen entpuppt.",
+  content: (
+    <>
+      <h1>Die Corona-Rebellen Freising und die AfD</h1>
+      <p>
+        Michael Firlus / 27.11.2020
+        <br />
+        Kontakt für Feedback:
+        <a href="mailto:michael@4lus.de">michael@4lus.de</a> / PGP-Key:
+        <a href="https://firl.us/pgp">firl.us/pgp</a>
+      </p>
+      <p>
+        Vielen Dank an die Genoss*innen bei den Jusos Freising für's
+        Korrekturlesen!
+      </p>
+
+      <h2>Anmerkung vom 03. Dezember</h2>
+      <p>
+        <img
+          src="screenshot-facebook.JPG"
+          alt="Facebook-Kommentar von Gerhard-Michael Welter"
+        />
+      </p>
+      <p>
+        Herr Welter behauptet auf Facebook, dass er nicht Mitglied der Gruppe
+        ist. Diese Aussage ist in der Form wahr, das Gegenteil wurde auch nicht
+        behauptet. Die Behauptungen waren, dass er zum Gründungszeitpunkt in der
+        Gruppe
+        <b>war</b> und in dieser auch gepostet hat. Es ist auch klar
+        erkenntlich, wann er ausgetreten ist, nämlich am 27. Mai 2020. Wer sich
+        versichern will, dass dem so ist, braucht in den exportierten Daten nur
+        nach seinem Namen suchen (Link hierzu weiter unten). Wer mir
+        unterstellt, ich hätte Datensätze hinzugefügt, dem empfehle ich, die
+        Daten selbstständig zu exportieren und sie mit meinen abzugleichen. Wie
+        das geht erkläre ich gerne auf Anfrage ;)
+      </p>
+
+      <h2>Hier geht's nun los...</h2>
+      <p>
+        Die sogenannte Querdenker*innen-Bewegung dürfte den meisten inzwischen
+        ein Begriff sein. Hauptsächlich wahrscheinlich durch Demonstrationen, um
+        augenscheinlich Kritik an den Corona-Maßnahmen zu üben, was sich aber in
+        der Praxis oft als ein wirrer Mix aus absurden Verschwörungstheorien und
+        rechten Parolen entpuppt.
+      </p>
+      <p>
+        Die andere Facette dieses Phänomens zeigt sich online. Besonders präsent
+        findet man derartige Gruppierungen auf der (teils) anonymen
+        Chat-Platform „Telegram“, wo Gruppen einerseits zum Organisieren von
+        Veranstaltungen genutzt werden, andererseits aber auch, um sich
+        ideologisch auszutauschen.
+      </p>
+      <p>
+        Das Beispiel mit der größten Medienwirksamkeit dürfte die
+        Telegram-Gruppe von Attila Hildmann sein, die inzwischen sogar ein Fall
+        für den Verfassungsschutz ist.
+      </p>
+      <p>
+        Allerdings finden sich inzwischen auch zahlreiche kleinere Gruppen auf
+        oft regionaler Basis, die jedoch nicht weniger absurd und in Hinsicht
+        auf die geteilten Inhalte nicht weniger abstoßend sind.
+      </p>
+      <p>
+        Seit Mai 2020 existiert eine derartige Gruppe auch für den Landkreis
+        Freising.
+      </p>
+      <p>
+        Um etwas mehr über diese „Community“ zu erfahren, habe ich mein
+        geballtes Wissen aus 5 Semestern Informatik verwendet, um die Datensätze
+        dieser Gruppe zu analysieren.
+      </p>
+      <h2>Info</h2>
+      <p>
+        Alle verwendeten Daten sind zum Zeitpunkt des Schreibens öffentlich
+        einsehbar unter t.me/coronarebellenfreising. Telegram selbst bietet
+        Chat-Historien im maschinenlesbaren Format an. Somit werden keine
+        privaten Daten veröffentlicht. Den Chat-Teilnehmern muss bewusst sein,
+        dass sie in einer öffentlichen Gruppe interagieren.
+      </p>
+      <p>
+        Die exportierten Datensätze, die von mir verwendet wurden, sind hier
+        einsehbar:
+      </p>
+      <p>https://github.com/firlus/corona-rebellen-freising</p>
+      <h2>Die Mitglieder</h2>
+      <p>
+        Die Gruppe hat momentan zwischen 120 und 130 Mitgliedern, viele davon
+        machen von dem Feature Gebrauch, dass Telegram einen Nutzer nicht
+        zwingt, einen Nutzernamen, eine Telefonnummer oder einen Realnamen zu
+        verwenden.
+      </p>
+      <p>
+        Unter den namentlich erkenntlichen Mitgliedern befindet sich unter
+        anderem der Bundestagsabgeordnete Johannes Huber von der AfD. Auch
+        andere Namen, die man aus der Freisinger Lokalpoltik als AfD-Mitglieder
+        kennt, sind vertreten.
+      </p>
+      <p>
+        Diese Information ist für sich erstmal uninteressant. Johannes Huber
+        könnte genau so gut auch nur Mitglied sein, um die Chatgruppe zu
+        beobachten. Ihn dafür zu kritisieren wäre für sich allein Doppelmoral,
+        musste ich doch (leider) selbst der Gruppe beitreten, um die Datensätze
+        zu exportieren.  
+      </p>
+
+      <h2>Die Inhalte</h2>
+      <p>
+        Es wäre falsch zu unterschlagen, dass es bei den Corona-Rebellen auch
+        Chatmitglieder gibt, die lediglich ihren Frust über bestimmte
+        Corona-Regelungen äußern. Das ist allerdings leider lediglich die eine
+        Seite des Spektrums an Inhalten, das zu finden ist.
+      </p>
+      <p>
+        Hier zeigt sich bereits, dass die beteiligten AfD-Lokalpolitiker*innen
+        mehr als nur stille Beobachter sind.
+      </p>
+      <p>
+        Der Originalinhalt der einzelnen Nachrichten sind hier mit der
+        entsprechenden ID aufzufinden:
+      </p>
+      <p>https://github.com/firlus/corona-rebellen-freising</p>
+      <p>Einige Beispiele:</p>
+      <ul>
+        <li class="mb-3">
+          Johannes Huber (MdB, AfD) teilt einen Artikel der amerikanischen
+          rechtsextremen Plattform „infowars.com“, in dem behauptet wird, der
+          israelische Ministerpräsident Netanyahu wolle allen Kindern Mikrochips
+          einpflanzen. [Nachrichten-ID: 29]
+        </li>
+        <li class="mb-3">
+          Gerhard-Michael Welter (AfD) vergleicht (erneut) die Politik der
+          demokratischen Parteien SPD und Grüne mit dem NS-Regime
+          [Nachrichten-ID: 199]
+        </li>
+        <li class="mb-4">
+          Gerhard-Michael Welter (AfD) findet, es sei „größte[r] Quatsch“, dass
+          die Querdenker*innen Ihre Veranstaltungen anmelden würden (nicht, weil
+          die Veranstaltungen Quatsch sind, sondern die Anmeldung von Demos) und
+          bezeichnet Deutschland in derselben Nachricht als Diktatur.
+          [Nachrichten-ID: 113]
+        </li>
+
+        <li>
+          Ein anonymes Chatmitglied (Alex S.) versendet Links zu einem
+          Telegram-Blog, der Informationen zur „BRD GmbH“ und der fortlaufenden
+          Besatzung Deutschlands durch die Alliierten verbreitet. Somit scheinen
+          selbst die Reichsbürger in dieser Gruppe gut vertreten zu sein.
+        </li>
+      </ul>
+
+      <p>
+        Weitere „Gesprächsthemen“ der Gruppe sind zum Beispiel der
+        Verschwörungstheoretiker Attila Hildmann oder die „NWO“
+        (Verschwörungstheorie über eine angeblich Weltregierung, welche nicht
+        selten mit Antisemitismus einhergeht). Auch Suchbegriffe wie „Gates“
+        führen zu einer hohen Anzahl an Treffern.
+      </p>
+      <p>
+        Das Märchen, die Querdenker*innen seien also nur „Besorgte Bürger“ wird
+        dadurch nicht wirklich glaubwürdiger.
+      </p>
+      <p>
+        Angesichts der Inhalte, die von den Moderatoren nun zumindest toleriert
+        werden, ist es natürlich interessant, wer diese Gruppe betreut und wer
+        sie gegründet hat.
+      </p>
+      <h2>Die Administratoren</h2>
+      <p>
+        Ohne viel Zauberei mit Datensätzen sieht man, dass momentan drei
+        Personen Administratorenrechte haben:
+      </p>
+      <p>
+        Inhaber der Gruppe ist Clemens Koppe, AfD-Mitglied, der dieses Jahr auch
+        für die Freisinger AfD für den Kreistag kandidiert hat. Weiterer
+        Administrator ist Bernhard Kranich, ehemaliger Landtagskandidat für die
+        – wer hätte es gedacht – Freisinger AfD. Dritter im Bunde ist ein
+        Account namens Drazen Jakicic, der nicht direkt der Freisinger AfD
+        zuzuordnen ist, allerdings ein Logo der Partei als Profilbild hat.
+      </p>
+      <p>
+        Wie sich zeigt, ist die AfD wohl nicht nur in Form von Mitgliedern
+        vertreten, sondern scheint auch an der Organisierung beteiligt zu sein.
+      </p>
+      <p>
+        Es ist allerdings auch hier etwas vorschnell, diese Telegram-Gruppe
+        gleich der ganzen Freisinger AfD zuzuschreiben – es kann sich ja auch
+        nur um ein Projekt von Koppe und Kranich als Privatpersonen handeln.
+      </p>
+      <p>
+        Nichtsdestotrotz kann man nun noch einen Schritt weitergehen und die
+        Metadaten über die Gründung der Gruppe analysieren. Wer war von Anfang
+        an dabei?
+      </p>
+      <h2>Die Gründer*innen</h2>
+      <p>
+        Zuerst ein kurzer Exkurs in die technischen Details des
+        Telegram-Datenschemas. Die einzelnen Datenpunkte, die dokumentiert
+        werden, sind Nachrichten und sogenannte „Actions“. Eine „Action“ kann
+        beispielsweise ein Gruppenbeitritt, ein Gruppenaustritt oder aber das
+        Ändern der Gruppeneinstellungen sein.
+      </p>
+      <p>
+        Der erste dokumentierte Datenpunkt ist eine Action namens
+        „migrate_from_group“. Übersetzt bedeutet es das Überführen einer
+        privaten Telegramgruppe in eine sogenannte „Supergruppe“, was eine
+        öffentlich einsehbare Gruppe ist, der jeder beitreten kann.
+      </p>
+      <p>
+        Da die Gruppe zuvor privat war, ist nun interessant, wer in dieser Phase
+        bereits beteiligt war. Darüber sind aber erst einmal keine Daten
+        erfasst. Was allerdings erfasst wird, sind Gruppenbeitritte und
+        Gruppenaustritte. Das bedeutet, dass alle Personen, von denen kein
+        Gruppenbeitritts-Event zu finden ist, schon vor dem Öffentlich-Werden
+        Mitglied sind. Gleicht man nun die Gruppeneintritte und -austritte mit
+        der aktuellen Mitgliederliste ab, bleiben sieben Personen zurück, die
+        somit von Anfang an dabei sind. Neben den drei Administratoren also noch
+        vier weitere Nutzer, die alle nicht anonym bleiben: Thomas Kanzelsberger
+        (Leiter des Wahlkreisbüros der AfD), Johannes Huber (MdB, Kreisrat AfD),
+        Gerhard-Michael Welter (Schatzmeister AfD KV Freising, Kreisrat,
+        Stadtrat Moosburg) und Bianca Csonka (Stadtratskandidatin 2020 für die
+        AfD – in der Gruppe als „BBC“, allerdings mit einem Profilbild, das ihr
+        eindeutig zuzuordnen ist.
+      </p>
+      <p>
+        <b>
+          6 von 7 Gründer*innen der „Corona-Rebellen Freising“ lassen sich
+          direkt der AfD Freising zuordnen.
+        </b>
+      </p>
+      <h2>Was bedeutet das?</h2>
+      <p>
+        Es ist meiner Ansicht nicht falsch zu behaupten, dass die AfD für diese
+        Gruppe verantwortlich ist. Die Tatsache, dass alle Gründer*innen der
+        Partei zuzuordnen sind, macht einen Zufall oder ähnliches undenkbar.
+      </p>
+      <p>
+        Daran sieht man deutlich, dass die Querdenker*innen-Bewegung auch auf
+        lokaler Ebene eindeutig eine große Schnittmenge ins rechtsextreme Milieu
+        aufweist.
+      </p>
+      <p>
+        Es ist zudem entlarvend, dass die teilweise extremistischen Äußerungen
+        in der Gruppe von der verantwortlichen AfD nicht moderiert werden und
+        zeigt ein weiteres Mal, dass es für diese keine Abgrenzung zu
+        Extremismus gibt und sie diesen zumindest toleriert, da sie von diesem
+        profitiert. Das wird dadurch deutlich, dass Johannes Huber selbst die
+        Veranstaltung vom 27.11.20 mehrmals in der Gruppe beworben hat.
+      </p>
+      <p>
+        Interessant ist zudem auch, dass Johannes Huber erst vor Kurzem
+        Vorwürfen widersprochen hat, dass er ein Teil der Telegram-Gruppe von
+        Attila Hildmann sei. Er ist unter derselben Chat-ID, die bei
+        netzpolitik.org genannt wurde, in der Freisinger Gruppe vertreten
+        gewesen (später dann unter einer neuen). Er und seine Parteikolleg*innen
+        scheinen aber auch in dieser Gruppe keinerlei Berührungsängste mit der
+        Community von Hildmann haben. Es werden zahlreiche Nachrichten von
+        Hildmann in die Gruppe weitergeleitet. Eine negative Reaktion sieht man
+        dazu nie.
+      </p>
+      <p>
+        Diese Tatsache zeigt noch einmal, dass Huber keinerlei Probleme mit den
+        extremistischen Ansichten von solchen Leuten hat, da er und seine Partei
+        im Zweifelsfall sogar davon profitieren.
+      </p>
+
+      <p>
+        Im Allgemeinen ist es auch nochmal wichtig zu betonen, dass die
+        Querdenker*innen-Bewegung gemeinsame Sache mit Rechten macht. Ich
+        verstehe, dass es für Menschen in der aktuellen Lage schwierig sein
+        kann, mit der Situation umzugehen und dass die Pandemie viele vor
+        existentielle Herausforderungen stellt. Daher ist konstruktive Kritik
+        recht und wichtig. Man muss sich allerdings dennoch bewusst sein, dass
+        eine Teilnahme an derartigen Veranstaltungen vollkommen unsolidarisch
+        ist, da man durch das Nichteinhalten von Abstandregel und Maskengebot
+        seine Mitmenschen und deren Umfeld gefährdet und dass man in Kauf nimmt,
+        gemeinsame Sache zu machen mit Rechtsradikalen und diesen eine Plattform
+        bietet.
+      </p>
+      <p>Wer mit Nazis geht, geht mit Nazis!</p>
+    </>
+  ),
+};

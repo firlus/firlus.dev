@@ -1,0 +1,75 @@
+$theme-colors: (
+  "red": #ef3726,
+  "orange": #ff8202,
+  "yellow": #ffb600,
+  "green": #78be21,
+  "blue": #1a8bd9,
+  "dark": #353333,
+  "light": #eee,
+);
+
+$body-bg: #353333;
+$body-color: #eee;
+
+$font-family-base: "Raleway";
+$font-size-base: 1.15rem;
+
+@import "~bootstrap/scss/bootstrap";
+
+.menu-item {
+  cursor: pointer;
+  position: relative;
+  width: 64px;
+  transition: width 0.3s;
+  &:hover {
+    width: 92px;
+  }
+  .menu-item-text {
+    font-family: "Josefin Slab";
+    width: 300px;
+    position: absolute;
+    transform: rotate(-90deg) translateY(-80px) translateX(92px);
+    left: -40px;
+    bottom: 64px;
+    a,
+    a:active,
+    a:hover,
+    a:focus,
+    a:visited {
+      text-decoration: none;
+      color: inherit;
+    }
+  }
+}
+
+h1,
+h2,
+.display-1 {
+  font-family: "Rozha One";
+}
+
+.display-2 {
+  font-family: "Josefin Slab";
+  font-size: 24px;
+}
+
+.portrait {
+  border-radius: 96px;
+}
+
+.description {
+  width: 400px;
+  text-align: justify;
+}
+
+.name {
+  position: absolute;
+  transform: translate(-450px, -80px);
+  z-index: 1;
+}
+
+.pill {
+  font-family: "Josefin Slab";
+  font-size: 1rem;
+  font-weight: 700;
+}
